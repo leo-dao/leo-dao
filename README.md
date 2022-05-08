@@ -27,7 +27,7 @@ Besides my first tangible personal project I've worked on University assignments
 
 ---
 
-<a href="" download>
+<a href="https://github.com/leo-dao/leo-dao/blob/main/Resume.pdf" download>
   📄 - Resume
 </a>
 
