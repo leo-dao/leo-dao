@@ -1,10 +1,10 @@
 ### Hey ✌️ 
 
-Hi I'm Leo, I'm a second year Computer Science undergraduate student at McGill and I'm currently working on a peer-to-peer music rental website using the **MERN** stack. 👷‍♂️
+Hi I'm Leo, I'm a second year Computer Science undergraduate student at McGill and I'm currently working on a peer-to-peer music rental website using the React as a frontend framework and Django for the backend. 👷‍♂️
 
 ---
 
-Besides my first tangible personal project I've worked on University assignments of various scopes in: 
+Besides this project I've worked on University assignments of various scopes in: 
 
 * Python 
 
