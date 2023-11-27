@@ -12,7 +12,7 @@ Feel free to explore, contribute, or reach out if you have any questions or coll
 
 ---
 
-Besides this project I've worked on University assignments of various scopes in: 
+Besides these projects I've worked on various University assignments in: 
 
 * Python 
 
